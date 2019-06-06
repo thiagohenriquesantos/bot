@@ -1,4 +1,4 @@
-# onebitbot
+# ThiagoBot
 Simple Telegram chatbot example, using ruby project + DialogFlow (https://dialogflow.com/).
 
 http://t.me/thiago_chatbot
